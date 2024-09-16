@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://kmriu.github.io/STU/sitemap.STU.gz
